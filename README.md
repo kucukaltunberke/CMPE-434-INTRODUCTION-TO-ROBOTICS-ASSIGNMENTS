@@ -1,3 +1,3 @@
 # CMPE 434: INTRODUCTION TO ROBOTICS ASSIGNMENTS
-This repository contains assignments for the **Introduction to Robotics** course taught at Boğaziçi University by Doğan Ulus. His intstructions on assignments are provided via links inside assignment folders. 
+This repository contains assignments for the **Introduction to Robotics** course taught at Boğaziçi University by Doğan Ulus. His instructions on assignments are provided via links inside assignment folders. 
 Assigments are structured from basic to advanced. Term project for this course can be found on "Autonomous Contact Avoiding Robot in Mujoco Simulator" repository I have created. 
